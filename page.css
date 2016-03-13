@@ -1,0 +1,632 @@
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#divNavContainer {
+    float: none;
+    height: 106px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-width: 0px;
+    max-width: 960px;
+    margin-right: auto;
+    display: block;
+}
+
+#logo {
+    float: left;
+    width: auto;
+    max-width: 16.123047%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 23px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+}
+
+#bannerDiv {
+    float: none;
+    height: 305px;
+    margin-left: auto;
+    margin-top: 44px;
+    clear: none;
+    width: 100%;
+    margin-right: auto;
+    max-width: 960px;
+}
+
+#bannerImage {
+    float: right;
+    width: auto;
+    height: auto;
+    margin-left: 0px;
+    margin-top: -136.390625px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    max-width: 40.968424%;
+}
+
+#bannerTexth1 {
+    float: left;
+    font-size: 1.9em;
+    width: 50.167643%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-left: 0%;
+    margin-top: 42.390625px;
+    clear: none;
+    min-height: 94px;
+    font-family: 'Kelson Sans';
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: 50.167643%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 16.609375px;
+    clear: both;
+    min-height: 55px;
+}
+
+#textspan {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    font-family: 'Khmer UI';
+}
+
+#Unite_Monitor_Div {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 89px;
+    clear: none;
+    width: 100%;
+    max-width: 960px;
+    display: block;
+    margin-right: auto;
+}
+
+#text1 {
+    float: left;
+    font-size: 1.7em;
+    width: 37.5%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0.16601563%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 239px;
+    font-family: 'Kelson Sans';
+}
+
+#textspan2 {
+    float: none;
+    font-size: 0.6em;
+    line-height: 1em;
+    font-family: 'Khmer UI';
+}
+
+#textspan1 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    font-family: 'Khmer UI';
+}
+
+#text2 {
+    float: right;
+    font-size: 1.7em;
+    width: 37.5%;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 239px;
+    font-family: 'Kelson Sans';
+    display: block;
+    margin-right: 0%;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 0.6em;
+    line-height: 1em;
+    font-family: 'Khmer UI';
+}
+
+#integrationsDiv {
+    float: none;
+    height: 261px;
+    margin-left: auto;
+    margin-top: 64px;
+    clear: none;
+    width: 100%;
+    max-width: 960px;
+    margin-right: auto;
+}
+
+#heroText {
+    float: left;
+    font-size: 1.6em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0.37434896%;
+    margin-top: 19px;
+    clear: none;
+    min-height: 0px;
+    font-family: 'Khmer UI';
+    margin-right: 0%;
+}
+
+#followText {
+    float: left;
+    font-size: 1em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 20px;
+    clear: both;
+    min-height: 96px;
+}
+
+#textspan5 {
+    float: none;
+    font-size: 1em;
+    line-height: 1.3em;
+    font-family: 'Khmer UI';
+    letter-spacing: 1px;
+}
+
+#integrationsImg {
+    float: none;
+    width: auto;
+    max-width: 99.208984%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 162px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#contactDiv {
+    float: none;
+    height: 216px;
+    margin-left: auto;
+    margin-top: 46px;
+    clear: none;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(111, 111, 111);
+    display: block;
+}
+
+#container {
+    float: none;
+    height: 216px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    max-width: 968px;
+    margin-right: auto;
+}
+
+#text3 {
+    float: none;
+    font-size: 2.1em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 37px;
+    clear: none;
+    min-height: 0px;
+    min-width: 0px;
+    margin-right: auto;
+    font-family: 'Khmer UI';
+    color: rgb(41, 72, 92);
+}
+
+#contactDiv1 {
+    float: none;
+    height: 45px;
+    margin-left: auto;
+    margin-top: 41px;
+    clear: none;
+    width: 200px;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#text4 {
+    float: none;
+    font-size: 1.4em;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: auto;
+    margin-top: 11px;
+    clear: none;
+    min-height: 32px;
+    min-width: 0px;
+    margin-right: auto;
+    font-family: 'Khmer UI';
+    color: rgb(41, 72, 92);
+}
+
+#privscyDiv {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(41, 72, 92);
+}
+
+#text5 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 10px auto;
+    clear: none;
+    min-height: 17px;
+}
+
+#textspan6 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    width: 100%;
+    min-width: 0px;
+    color: rgb(255, 255, 255);
+    font-family: 'Khmer UI';
+}
+
+#navBar {
+    float: right;
+    height: 50px;
+    margin-left: 0px;
+    margin-top: -49.90625px;
+    clear: none;
+    width: 0px;
+    margin-right: 0%;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+@media only screen and (max-width: 1583px) {
+    #bannerImage {
+        margin-top: -208px;
+        margin-right: -0.03092448%;
+        margin-left: 0px;
+        clear: both;
+    }
+
+    #text {
+        margin-top: 16.609375px;
+        margin-left: 0%;
+        clear: both;
+    }
+}
+
+@media only screen and (max-width: 1300px) {
+    #textspan6 {
+        line-height: 1.3em;
+    }
+}
+
+@media only screen and (max-width: 1103px) {
+    #Unite_Monitor_Div {
+        max-width: 786px;
+        width: 79.878049%;
+    }
+
+    #bannerDiv {
+        max-width: 786px;
+        width: 79.878049%;
+    }
+
+    #divNavContainer {
+        max-width: 786px;
+        width: 79.878049%;
+    }
+
+    #integrationsDiv {
+        max-width: 786px;
+        width: 79.878049%;
+    }
+
+    #container {
+        max-width: 786px;
+        width: 79.878049%;
+    }
+
+    #text5 {
+        max-width: 786px;
+    }
+
+    #text {
+        margin-top: 21.21875px;
+        margin-left: 0%;
+        clear: both;
+    }
+
+    #bannerImage {
+        margin-right: 0.41746183%;
+        margin-top: 9px;
+        clear: none;
+        height: auto;
+        width: auto;
+        max-width: 36.955312%;
+    }
+
+    #bannerTexth1 {
+        margin-top: 0px;
+        margin-right: 0%;
+        margin-left: 0%;
+        width: 70.400649%;
+        clear: none;
+    }
+}
+
+@media only screen and (max-width: 984px) {
+    #divNavContainer {
+        max-width: 900px;
+        width: 91.463415%;
+        height: 124px;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        margin-top: 0px;
+        clear: none;
+    }
+
+    #bannerDiv {
+        margin-top: 26px;
+        clear: none;
+        height: auto;
+        max-width: 900px;
+        width: 100%;
+    }
+
+    #bannerTexth1 {
+        font-size: 20px;
+        margin-left: auto;
+        float: none;
+        clear: none;
+        margin-top: 0px;
+        height: auto;
+        width: 99.603411%;
+        text-align: center;
+        min-height: 41px;
+        margin-right: auto;
+    }
+
+    #bannerImage {
+        margin-left: auto;
+        float: none;
+        clear: none;
+        margin-top: 15px;
+        height: auto;
+        width: auto;
+        max-width: 67.628817%;
+        margin-right: auto;
+    }
+
+    #text {
+        margin-top: 43.53125px;
+        margin-left: auto;
+        clear: none;
+        text-align: center;
+        margin-right: auto;
+        float: none;
+        width: 100%;
+    }
+
+    #text1 {
+        height: auto;
+        width: 100%;
+        margin-left: auto;
+        float: none;
+        clear: none;
+        margin-right: auto;
+        max-width: 900px;
+    }
+
+    #text2 {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        margin-top: 67px;
+        clear: none;
+        width: 91.463415%;
+        max-width: 900px;
+    }
+
+    #Unite_Monitor_Div {
+        height: auto;
+        margin-top: 32px;
+        clear: none;
+        max-width: none;
+        width: 100%;
+    }
+
+    #heroText {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        text-align: center;
+    }
+
+    #followText {
+        margin-top: 20px;
+        margin-left: auto;
+        clear: none;
+        margin-right: auto;
+        float: none;
+    }
+
+    #integrationsImg {
+        margin-top: 0px;
+        clear: none;
+    }
+
+    #integrationsDiv {
+        margin-top: 31px;
+        clear: none;
+        width: 91.463415%;
+        max-width: 900px;
+    }
+
+    #contactDiv {
+        margin-top: 10px;
+        clear: none;
+    }
+
+    #privscyDiv {
+        margin-top: 0px;
+        clear: none;
+        height: 120px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #text5 {
+        margin-top: 28px;
+        clear: none;
+    }
+
+    #navBar {
+        margin-left: 0px;
+        margin-right: 0%;
+        float: right;
+        clear: none;
+        margin-top: 21.734375px;
+        width: 421px;
+    }
+}
+
+@media only screen and (max-width: 403px) {
+    #logo {
+        height: auto;
+        width: auto;
+        max-width: 49.995761%;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+        margin-top: 9.734375px;
+    }
+
+    #divNavContainer {
+        height: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #bannerDiv {
+        margin-top: 18px;
+        clear: none;
+    }
+
+    #navBar {
+        width: 0px;
+        overflow: hidden;
+        visibility: hidden;
+        margin-right: 0%;
+        margin-top: -49.90625px;
+        clear: none;
+    }
+
+    #text {
+        margin-top: 16.0625px;
+        clear: none;
+    }
+
+    #bannerTexth1 {
+        width: 99.603411%;
+        margin-top: 11px;
+        margin-left: 0%;
+        clear: none;
+    }
+
+    #bannerImage {
+        margin-top: 25.9375px;
+        clear: none;
+    }
+
+    #text2 {
+        width: 100%;
+    }
+
+    #container {
+        display: block;
+    }
+
+    #integrationsDiv {
+        display: block;
+    }
+
+    #privscyDiv {
+        margin-top: 0px;
+        clear: none;
+    }
+
+    #contactDiv {
+        margin-top: 123px;
+        clear: none;
+    }
+
+    #integrationsImg {
+        margin-top: 16px;
+        clear: none;
+        max-width: 100%;
+    }
+
+    #textspan3 {
+        float: none;
+        font-size: 1em;
+        line-height: 1em;
+        font-family: 'Khmer UI';
+    }
+}
+
